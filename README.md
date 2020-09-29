@@ -6,18 +6,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 EarthBnB is a vacation rental site clone that allows a user to click through 20 different location in the United States and see information about each location such as: where the rental is located, price per night to rent, points of interest nearby, host and cohost information, and many other features. Upon loading you are taken to a landing page that contains the cards for all 20 of the locations. As you scroll through each location page, notice that the majority of the information for each separately designed component remains the same even though they were created by completely different people. This is possible due to the server-side and database information that can be found at [EarthBnB Server](https://github.com/NeelyAnne/server-EarthBnB).
 
-EarthBnB is not currently deployed, but can be cloned for local use with the provided instructions. Pictures of the overall application are also available at the bottom of this page for users that choose not to use the application locally.
+EarthBnB is not currently deployed, but can be cloned for local use with the provided instructions or you can check out a demo of the video on my YouTube channel at the link below.
+
+## **Demo Link:**
+
+https://www.youtube.com/watch?v=ozMwkHq5Luc&feature=youtu.be
 
 ## **My Contribution:**
 
 My contribution to the EarthBnb application was both the "Location" map component on each individual location page as well as the entirety of the landing page. The actual Location component consists of a Google Maps module built specifically for Angular, as well as a description of the rental city, and a points of interest section near the rental that is powered by Google Places Search API. The longitude and latutide from each location is pulled from a database and displayed on the map in a marker as well, and each point of interest is accompanied by a logo representing what kind of location it is. 
 
-![alt text](https://photos.app.goo.gl/aCvBszEvHPrdEVua7 "Map Photo")
-![alt text](https://photos.app.goo.gl/4c24sgatBevJ4Zo47 "POI Photo")
+![alt text](https://github.com/NeelyAnne/client-EarthBnB/blob/master/location.png "Map Photo")
+![alt text](https://github.com/NeelyAnne/client-EarthBnB/blob/master/poin.png "POI Photo")
 
 The landing page contains a uniquely designed header and BootStrap cards for each location. The background of the cards is the inital image used for each location and the corresponding information is all matchin gin comparison to the individual pages. You are automatically routed to the landing page when the application opens.
 
-![alt text](https://photos.app.goo.gl/NDhtFaYK96hpqBG57 "Landing Page Photo")
+![alt text](https://github.com/NeelyAnne/client-EarthBnB/blob/master/landing.png "Landing Page Photo")
 
 ## **Instrcutions for Local Use:**
 
