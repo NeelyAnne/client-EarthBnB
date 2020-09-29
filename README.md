@@ -100,12 +100,10 @@ Fred Zirdung and Jothi Nedungadi
 
 - JavaScript
 - NodeJS
-- ReactJS
+- Angular
 - HTML
 - CSS
-- WebPack
-- Jest
-- FontAwesome
+- Google Maps
 - Material U/I
 - Enzyme
 - Bootstrap
