@@ -12,11 +12,12 @@ EarthBnB is not currently deployed, but can be cloned for local use with the pro
 
 My contribution to the EarthBnb application was both the "Location" map component on each individual location page as well as the entirety of the landing page. The actual Location component consists of a Google Maps module built specifically for Angular, as well as a description of the rental city, and a points of interest section near the rental that is powered by Google Places Search API. The longitude and latutide from each location is pulled from a database and displayed on the map in a marker as well, and each point of interest is accompanied by a logo representing what kind of location it is. 
 
-![alt text](https://github.com/NeelyAnne/client-Amazin/blob/master/public/images/grid.png "Comparison Grid Photo")
+![alt text](https://photos.google.com/photo/AF1QipM-Q6odgpoAcgK87xbLY7-CNDgb7lNSNv50Mp2z "Map Photo")
+![alt text](https://photos.google.com/photo/AF1QipMDZ5PKHJTgJgx0Yj68_FlOi0Ww1eod56enzA-A "POI Photo")
 
 The landing page contains a uniquely designed header and BootStrap cards for each location. The background of the cards is the inital image used for each location and the corresponding information is all matchin gin comparison to the individual pages. You are automatically routed to the landing page when the application opens.
 
-![alt text](https://github.com/NeelyAnne/client-Amazin/blob/master/public/images/grid.png "Comparison Grid Photo")
+![alt text](https://photos.google.com/photo/AF1QipPajdJcZhqSdz3jGmYMRKCFCkmRKc4of-2PmyD_ "Landing Page Photo")
 
 ## **Instrcutions for Local Use:**
 
@@ -105,14 +106,6 @@ Fred Zirdung and Jothi Nedungadi
 - Enzyme
 - Bootstrap
 - Babel
-
-## **Photos:**
-
-![alt text](https://github.com/NeelyAnne/client-Amazin/blob/master/public/images/grid.png "Comparison Grid Photo")
-
-![alt text](https://github.com/NeelyAnne/client-Amazin/blob/master/public/images/grid.png "Comparison Grid Photo")
-
-![alt text](https://github.com/NeelyAnne/client-Amazin/blob/master/public/images/grid.png "Comparison Grid Photo")
 
 ## **Further help:**
 
