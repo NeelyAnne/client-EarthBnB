@@ -19,7 +19,7 @@ My contribution to the EarthBnb application was both the "Location" map componen
 ![alt text](https://github.com/NeelyAnne/client-EarthBnB/blob/master/location.png "Map Photo")
 ![alt text](https://github.com/NeelyAnne/client-EarthBnB/blob/master/poin.png "POI Photo")
 
-The landing page contains a uniquely designed header and BootStrap cards for each location. The background of the cards is the inital image used for each location and the corresponding information is all matchin gin comparison to the individual pages. You are automatically routed to the landing page when the application opens.
+The landing page contains a uniquely designed header and BootStrap cards for each location. The background of the cards is the inital image used for each location and the corresponding information is all matching in comparison to the individual pages. You are automatically routed to the landing page when the application opens.
 
 ![alt text](https://github.com/NeelyAnne/client-EarthBnB/blob/master/landing.png "Landing Page Photo")
 
