@@ -35,19 +35,25 @@ The landing page contains a uniquely designed header and BootStrap cards for eac
  
  - it should open to localhost:3000/
  
-(4.) Browse
+(4.) Obtain a Google API key, which you can do for free (up to a certain number of calls) with instructions found here
+
+ - https://developers.google.com/maps/documentation/javascript/get-api-key
+ 
+(5.) Replace the 'key=xxx' located in 1 _-_ the final script tag of the index.html file and 2 _-_ the app/service/addresses.service.ts file to read 'key=[YOUR_API_KEY]'
+ 
+(6.) Browse
 
  - Click on any of the location cards to be taken to that location page
 
  - hit the back button to return to our landing page 
 
-(5.) (Optional) To see a specific page simply change the number at the end to any between 1 & 20
+(7.) (Optional) To see a specific page simply change the number at the end to any between 1 & 20
 
  - e.g. localhost:3000/rooms/5 or localhost:3000/rooms/17
 
  - Most things will not appear correctly without also having the server (link listed above) running.
 
-(6.) (Optional) 'npm test' will run all the pre-written tests 
+(8.) (Optional) 'npm test' will run all the pre-written tests 
 
 ## **Technologies:**
 
