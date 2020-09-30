@@ -23,7 +23,7 @@ The landing page contains a uniquely designed header and BootStrap cards for eac
 
 ![alt text](https://github.com/NeelyAnne/client-EarthBnB/blob/master/landing.png "Landing Page Photo")
 
-## **Instrcutions for Local Use:**
+## **Instructions for Local Use:**
 
 (1.) Clone the repository
 
